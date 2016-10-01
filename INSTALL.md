@@ -153,7 +153,7 @@ as described in [Skia on Windows](#skia-on-windows) section.
 ## Mac OS X details
 
 After [compiling Skia](#skia-on-mac-os-x), you should run `cmake` with
-the following parameters and then `ninja`:
+the following parameters (Note: do *NOT* forget to add the two periods at the end. They are not elipsis) and then `ninja`:
 
     cd aseprite
     mkdir build
